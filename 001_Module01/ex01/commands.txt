@@ -1,0 +1,10 @@
+df - report fs disk usage
+free - display amount of free and used memory
+uniq - report repeated lines
+tee - read from standard input and write to standard output and files
+file - determine file type
+mktemp - create a temporary file or directory
+od - dump files in octal and other formats
+truncate - shrink or extend the size of a file to the specified size
+type - write a description of command type
+cut - remove sections from each line of files
