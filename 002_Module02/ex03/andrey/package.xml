@@ -3,7 +3,7 @@
 <package format="3">
   <name>andrey</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Sample package</description>
   <maintainer email="laissezfaireisfair@gmail.com">andrey</maintainer>
   <license>Apache-2.0</license>
 
@@ -11,6 +11,9 @@
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
+  <test_depend>std_msgs</test_depend>
+  <test_depend>rclpy</test_depend>
+  <test_depend>rclcpp</test_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
