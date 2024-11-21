@@ -1,0 +1,7 @@
+string command  # "forward", "turn_left", "turn_right"
+int32 distance
+int32 angle_degrees
+---
+bool is_successful
+---
+int32 traveled_distance
